@@ -1,0 +1,133 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-tgd3s",
+          "node": {
+            "description": "💡 Tambahkan Read File di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-tgd3s",
+        "measured": {
+          "height": 140,
+          "width": 302
+        },
+        "position": {
+          "x": 249,
+          "y": 359.25
+        },
+        "resizing": false,
+        "selected": false,
+        "type": "noteNode",
+        "width": 302
+      },
+      {
+        "data": {
+          "id": "note-XwoNP",
+          "node": {
+            "description": "💡 Tambahkan Split Text di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-XwoNP",
+        "measured": {
+          "height": 140,
+          "width": 302
+        },
+        "position": {
+          "x": 707.3040544340595,
+          "y": 494.0662876435795
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 302
+      },
+      {
+        "data": {
+          "id": "note-PQKPy",
+          "node": {
+            "description": "💡 Tambahkan Embedding di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-PQKPy",
+        "measured": {
+          "height": 140,
+          "width": 302
+        },
+        "position": {
+          "x": 729.8270348239153,
+          "y": 86.73820704151282
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 302
+      },
+      {
+        "data": {
+          "id": "note-rfrnU",
+          "node": {
+            "description": "💡 Tambahkan Astra DB di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-rfrnU",
+        "measured": {
+          "height": 140,
+          "width": 302
+        },
+        "position": {
+          "x": 1132.3116084677217,
+          "y": 277.97793270218585
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 302
+      }
+    ],
+    "viewport": {
+      "x": -275.47793505412164,
+      "y": -12.913253983914842,
+      "zoom": 1.1906744379683598
+    }
+  },
+  "description": "Save your study notes to the vector store",
+  "endpoint_name": null,
+  "id": "c9029852-4981-406b-ad5a-8450f1328b15",
+  "is_component": false,
+  "last_tested_version": "1.11.5",
+  "locked": false,
+  "name": "Save Study Notes - Template",
+  "tags": []
+}

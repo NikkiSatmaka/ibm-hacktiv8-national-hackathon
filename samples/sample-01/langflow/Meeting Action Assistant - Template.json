@@ -1,0 +1,193 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-dm6l5",
+          "node": {
+            "description": "💡 Tambahkan Agent di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-dm6l5",
+        "measured": {
+          "height": 140,
+          "width": 285
+        },
+        "position": {
+          "x": 1616.700013762576,
+          "y": 135.0732507045584
+        },
+        "resizing": false,
+        "selected": false,
+        "type": "noteNode",
+        "width": 285
+      },
+      {
+        "data": {
+          "id": "note-P0xaB",
+          "node": {
+            "description": "💡 Tambahkan GoogleCalendar di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-P0xaB",
+        "measured": {
+          "height": 140,
+          "width": 285
+        },
+        "position": {
+          "x": 964.6973391429146,
+          "y": -144.45851283000417
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 285
+      },
+      {
+        "data": {
+          "id": "note-YaSTH",
+          "node": {
+            "description": "💡 Tambahkan GoogleDocs di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-YaSTH",
+        "measured": {
+          "height": 140,
+          "width": 285
+        },
+        "position": {
+          "x": 539.6021777043668,
+          "y": 27.292230921225276
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 285
+      },
+      {
+        "data": {
+          "id": "note-XJbNb",
+          "node": {
+            "description": "💡 Tambahkan Gmail di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-XJbNb",
+        "measured": {
+          "height": 140,
+          "width": 285
+        },
+        "position": {
+          "x": 918.7662472843064,
+          "y": 340.260914344952
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 285
+      },
+      {
+        "data": {
+          "id": "note-v3Mgi",
+          "node": {
+            "description": "💡 Tambahkan Chat Input di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-v3Mgi",
+        "measured": {
+          "height": 140,
+          "width": 285
+        },
+        "position": {
+          "x": 1315.6690867612147,
+          "y": 764.0035336958548
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 285
+      },
+      {
+        "data": {
+          "id": "note-mi8JH",
+          "node": {
+            "description": "💡 Tambahkan Chat Output di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-mi8JH",
+        "measured": {
+          "height": 140,
+          "width": 321
+        },
+        "position": {
+          "x": 2037.9582350121104,
+          "y": 412.08474887691284
+        },
+        "resizing": false,
+        "selected": false,
+        "type": "noteNode",
+        "width": 321
+      }
+    ],
+    "viewport": {
+      "x": -442.4886542203999,
+      "y": 242.43779487953907,
+      "zoom": 0.9849638792814285
+    }
+  },
+  "description": "Creates a meeting summary in Google Docs and email it to the attendees and, when the\nnotes contain a scheduled next meeting, creates a Google\nCalendar event and invites the specified participants.",
+  "endpoint_name": null,
+  "id": "8ab9df2e-51e6-47b7-b388-74426e6a5f50",
+  "is_component": false,
+  "last_tested_version": "1.11.5",
+  "locked": false,
+  "name": "Meeting Action Assistant - Template",
+  "tags": [
+    "chatbots",
+    "content-generation"
+  ]
+}

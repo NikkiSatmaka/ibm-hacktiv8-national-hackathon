@@ -1,0 +1,28 @@
+# Secrets (examples stay tracked)
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# Local Langflow/vector state
+.langflow/
+langflow-data/
+*.db
+*.sqlite*
+vector-store/
+
+# Local tooling
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+node_modules/

@@ -1,0 +1,1 @@
+{"mcpServers":{"study-rag-assistant":{"transport":"streamable-http","url":"http://localhost:7860/api/v1/mcp/project/<PROJECT_ID>/sse"}}}

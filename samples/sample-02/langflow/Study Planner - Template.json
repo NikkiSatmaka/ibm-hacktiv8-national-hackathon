@@ -1,0 +1,132 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-InGlD",
+          "node": {
+            "description": "💡 Tambahkan Chat Input di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-InGlD",
+        "measured": {
+          "height": 140,
+          "width": 280
+        },
+        "position": {
+          "x": 392,
+          "y": 433
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 280
+      },
+      {
+        "data": {
+          "id": "note-3Pgtp",
+          "node": {
+            "description": "💡 Tambahkan Prompt Template di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-3Pgtp",
+        "measured": {
+          "height": 140,
+          "width": 280
+        },
+        "position": {
+          "x": 687,
+          "y": 329
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 280
+      },
+      {
+        "data": {
+          "id": "note-8lJRP",
+          "node": {
+            "description": "💡 Tambahkan Language Model di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-8lJRP",
+        "measured": {
+          "height": 140,
+          "width": 280
+        },
+        "position": {
+          "x": 1102,
+          "y": 333
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 280
+      },
+      {
+        "data": {
+          "id": "note-yKbzw",
+          "node": {
+            "description": "💡 Tambahkan Chat Output di sini",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 140,
+        "id": "note-yKbzw",
+        "measured": {
+          "height": 140,
+          "width": 280
+        },
+        "position": {
+          "x": 1450,
+          "y": 404
+        },
+        "selected": false,
+        "type": "noteNode",
+        "width": 280
+      }
+    ],
+    "viewport": {
+      "x": -437.0104633781764,
+      "y": 12.470104633781716,
+      "zoom": 1.3393124065769806
+    }
+  },
+  "description": "Create a study plan for the students based on the exam schedule and materials",
+  "endpoint_name": null,
+  "id": "6780477b-03c0-46de-a1ba-ceb3b82c5b8c",
+  "is_component": false,
+  "last_tested_version": "1.11.5",
+  "locked": false,
+  "name": "Study Planner - Template",
+  "tags": []
+}
