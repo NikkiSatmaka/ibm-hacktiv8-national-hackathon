@@ -1,6 +1,6 @@
 # Sample study data
 
-The RAG corpus contains five topics, each provided as Markdown and PDF:
+The RAG corpus contains five topics, each provided as Markdown:
 
 1. `introduction-to-ai`
 2. `supervised-learning`
